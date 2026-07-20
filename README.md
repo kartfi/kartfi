@@ -1,5 +1,5 @@
-# 💫 About Me:
-## 👋 About Me<br><br>🎓 Final-year B.Tech student aspiring to become a Software Engineer.<br><br>💻 Passionate about building innovative software and solving real-world problems.<br><br>🤖  Exploring Leet Code, Vibe code, Full-Stack Development, Cybersecurity, and Penetration Testing.<br><br>🚀 Continuously learning, improving my skills, and contributing to meaningful projects.<br><br>🌱 Open to Software Engineer opportunities and excited to build products that make an impact.<br><br>✨ *"Turning ideas into code, and code into solutions."*
+## 💫 About Me:
+👋 About Me<br><br>🎓 Final-year B.Tech student aspiring to become a Software Engineer.<br><br>💻 Passionate about building innovative software and solving real-world problems.<br><br>🤖  Exploring Leet Code, Vibe code, Full-Stack Development, Cybersecurity, and Penetration Testing.<br><br>🚀 Continuously learning, improving my skills, and contributing to meaningful projects.<br><br>🌱 Open to Software Engineer opportunities and excited to build products that make an impact.<br><br>✨ *"Turning ideas into code, and code into solutions."*
 
 
 ## 🌐 Socials:
